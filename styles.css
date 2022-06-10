@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Pacifico&display=swap');
+
+body {
+    background-color: rgb(218, 247, 166);
+}
+
+.cajapokemon {
+    float: left;
+    background-color: rgb(238 85 53 / 71%);
+    margin: 1%;
+    height: 320px;
+    width: 150px;
+    border-radius: 25px;
+    box-shadow: rgb(255 195 0 / 75%) -11px 10px 4px 0px;
+    border: 3px solid rgb(199, 0, 57);
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.contentCard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10%;
+}
+
+.types {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+}
+
+.fire {
+    color: white;
+}
+
+.grass {
+    color: white;
+}
+
+.water {
+    color: white;
+}
+
+.fliying {
+    color: white;
+}
+
+.electric {
+    color: white;
+}
+
+.ground {
+    color: white;
+}
+
+.rock {
+    color: white;
+}
+
+.fairy {
+    color: white;
+}
+
+.bug {
+    color: white;
+}
+
+.poison {
+    color: white;
+}
+
+.dragon {
+    color: white;
+}
+
+.psychic {
+    color: white;
+}
+
+.fighting {
+    color: white;
+}
+
+.normal {
+    color: white;
+}
+
+.ghost {
+    color: white;
+}
+
+.steel {
+
+    color: white;
+}
+
+.ice {
+    color: white;
+}
+
+.dark {
+    color: white;
+}
+
+.types__selector {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
